@@ -1,0 +1,22 @@
+Kuro: "Teacher, may I use the washroom?": 00
+Kuro: Guess I'll have to make this eavesdrop quick.: 00
+Kuro: I lean against a wall, only to hear the silent arguing of Akia and the Headmaster.: 00
+Headmaster: "Akia, you know you can't keep up this position forever with your grades, you know that right?": 00
+Akia: "Just... give me a month's time, and I'll be able to figure something out.": 00
+Headmaster: "Look, Akia, I know that your financial situation isn't the best, and it may be time for you to focus on your job and schoolwork. It'll only work out for you in the end.": 00
+Akia: "I-I got a job! One that pays well...": 00
+Headmaster: "And what job might that be?": 00
+Akia: "A... a maid cafe job, but don't worry everyone there's nice and-": 00
+Headmaster: "Akia... out of all the jobs, I can't bring myself to understand why you chose that one.": 00
+Headmaster: "What an utterly disgusting job. If your grades don't improve by the next semester, I'll rid you of your title.": 00
+Akia: "B-but headmaster, didn't you say you understood my-": 00
+Headmaster: "Begone! You have no right to step in my office with "that" as your job.": 00
+Kuro: I quickly return back to my classroom.: 00
+Kuro: I packed my necessities and left early to the boy's locker room to change shoes.: 00
+Kuro: I hear a faint cry from a feminine voice near the locker room.: 00
+Kuro: What a rather...: 00
+Kuro: ...unsettling sound.: 00
+Kuro: I can only feel sympathy for her.: 00
+Kuro: I decide to take a peek to see who it is.: 00
+Kuro: Akia, huh...: 00
+Kuro: After hearing what happened, I thought this would happen.: 00
