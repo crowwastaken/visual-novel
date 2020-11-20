@@ -33,7 +33,6 @@ public class MainCon {
 		Func.wait = true;
 		createMenu();
 		createGame();
-		createMenu();
 		// beginning
 		// intro
 
