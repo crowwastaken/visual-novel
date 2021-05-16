@@ -45,7 +45,7 @@ public class MainCon {
 		Window menu = new Window("menu");
 		while(menu.isVisible()) {
 			//when play button is pressed, menu.dispose(); in window class
-			System.out.println("menu");
+			System.out.printf("");
 		}
 	}
 	
@@ -71,7 +71,7 @@ public class MainCon {
 			}
 			
 			while(Window.choicePan.isVisible()) {
-				System.out.println("waiting for choice");
+				System.out.printf("");
 			}
 			//choice result
 			System.out.println(part);

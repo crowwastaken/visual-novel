@@ -1,14 +1,3 @@
-Akia: W-what?: 00
-Kuro: I mean, you wanted my money right, that's why you're working here.: 00
-Akia: How rude. I hope you're joking.: 00
-Other maid: Akia! Remember how a maid is supposed to treat their customers.: 00
-Akia: Now, hurry up and give me your order.: 00
-Kuro: I'll take a burger please.: 00
-Akia. Which one...: 00
-Kuro: The one that's the most expensive.: 00
-Akia: *Rolls her eyes*: 00
-Akia: Please wait a moment.: 00
-Time: *Passes*: 00
 Akia: "Here's your order.": 00
 Kuro: "That took pretty long to come here.": 00
 Akia: "It was two minutes!": 00

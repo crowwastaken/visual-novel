@@ -66,7 +66,7 @@ public class Func {
 				}
 				
 				try {
-					System.out.println("typing");
+					System.out.printf("");
 					display += dia[i];
 					Window.text.setText("<html>" + display + "</html>");
 					Thread.sleep(60);
@@ -87,7 +87,7 @@ public class Func {
 					break;
 				}
 				
-				System.out.println("waiting");
+				System.out.printf("");
 			}
 			Window.logText.setText(Window.logText.getText() + Window.name.getText() + ": " + finishedText + "<br/>");
 			MainCon.currentLog = Window.logText.getText();
@@ -112,7 +112,7 @@ public class Func {
 		
 		while(oneTyping ||  twoTyping || threeTyping){
 			try {
-				System.out.println("typingC");
+				System.out.printf("");
 				if(one < choiceText1.length) {
 					Window.but1.setText(display1 += choiceText1[one]);
 					one++;
@@ -196,11 +196,6 @@ public class Func {
 		}
 	}
 	
-	public static void skip() {
-		run = false;
-		Window.text.setText("<html>" + finishedText + "</html>");
-	}
-	
 	public static void saveReader(int saveLevel, int savePart, int saveLine, String saveLog) throws Exception {
 		File saveFile = new File(Func.localFile + "/save.txt");
 		File logFile = new File(Func.localFile + "/log.txt");
@@ -220,4 +215,10 @@ public class Func {
 		save.close();
 		log.close();
 	}
+	
+	public static void skip() {
+		run = false;
+		Window.text.setText("<html>" + finishedText + "</html>");
+	}
+	
 }

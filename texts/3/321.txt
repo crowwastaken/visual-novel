@@ -1,0 +1,24 @@
+Kuro: "I figured if I came here and tipped you, I could help with your financial situation.": 00
+Akia: "Is that so? Well, I guess you only had good intentions anyway.": 00
+Akia: "But I have enough tips from daily customers, I only need about 2 months more of work to pay off rent.": 00
+Kuro: "I can help with that! I'm pretty well-off, so it shouldn't be a problem for me.": 00
+Akia: "It's alright, you don't have to waste your money on me.": 00
+Akia: "It wouldn't feel like I earned it...": 00
+Other maid: "Akia! Remember how a maid is supposed to treat their customers.": 00
+Kuro: "I-It's okay, um-": 00
+Akia: "Shushin-sama! What would you like to order nya?": 00
+Kuro: "I'll take a strawberry parfait please.": 00
+Akia: "Nya problem! Anything else?": 00
+Kuro: "That'd be it, thanks.": 00
+Akia: "Please wait a moment. Arigatou go zaimasu!": 00
+Time: *Passes*: 00
+Akia: "Here's your order, sir.": 00
+Kuro: "Thanks.": 00
+Kuro: I finish eating, and can't help but wonder what decisions led me to go to a maid cafe. A maid cafe of all places.: 00
+Kuro: I stare blankly into the distance for an hour as if I had amnesia.: 00
+Akia: "Sir, other people are waiting for a seat. If you're finished with your meal, I'd advise leaving the cafe. Come again soon though.": 00
+Kuro: "All right, goodbye.": 00
+Kuro: That girl isn't that interesting after all. I guess I'll just walk home now.: 00
+Kuro: I walk home, with nothing gained and nothing lost. It was just another typical day in my average life.: 00
+Kuro: *Proceeds to fall on his face on the cement*: 00
+Kuro: "Ouch.. talk about bad luck.": 00

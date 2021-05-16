@@ -1,13 +1,16 @@
-Akia: W-what?: 00
-Kuro: I mean, you wanted my money right, that's why you're working here.: 00
-Akia: How rude. I hope you're joking.: 00
-Other maid: Akia! Remember how a maid is supposed to treat their customers.: 00
-Akia: Now, hurry up and give me your order.: 00
-Kuro: I'll take a burger please.: 00
-Akia. Which one...: 00
-Kuro: The one that's the most expensive.: 00
-Akia: *Rolls her eyes*: 00
-Akia: Please wait a moment.: 00
+Kuro: "I figured if I came here and tipped you, I could help with your financial situation.": 00
+Akia: "Is that so? Well, I guess you only had good intentions anyway.": 00
+Akia: "But I have enough tips from daily customers, I only need about 2 months more of work to pay off rent.": 00
+Kuro: "I can help with that! I'm pretty well-off, so it shouldn't be a problem for me.": 00
+Akia: "It's alright, you don't have to waste your money on me.": 00
+Akia: "It wouldn't feel like I earned it...": 00
+Other maid: "Akia! Remember how a maid is supposed to treat their customers.": 00
+Kuro: "I-It's okay, um-": 00
+Akia: "Shushin-sama! What would you like to order nya?": 00
+Kuro: "I'll take a strawberry parfait please.": 00
+Akia: "Nya problem! Anything else?": 00
+Kuro: "That'd be it, thanks.": 00
+Akia: "Please wait a moment. Arigatou go zaimasu!": 00
 Time: *Passes*: 00
 Akia: "Here's your order.": 00
 Kuro: "That took pretty long to come here.": 00
